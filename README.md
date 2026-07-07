@@ -7,4 +7,4 @@ merge conflict resolution, and GitHub Pull Requests.
 ## Project Structure
 - `index.html` – main HTML entry point
 - `style.css` – stylesheet for the project
-- `script.js` – client-side JavaScript / modified
+- `script.js` – client-side JavaScript
